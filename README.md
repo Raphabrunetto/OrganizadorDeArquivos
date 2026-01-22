@@ -8,13 +8,13 @@ para o formato final (categoria/data apenas para Imagem e Planilhas). Pastas
 ## Como usar
 
 ```bash
-python organizador.py --path "C:\Users\raphael_vidyatec\Downloads"
+python organizador.py --path "C:\Users\raphael\Downloads"
 ```
 
 Para simular sem mover arquivos:
 
 ```bash
-python organizador.py --path "C:\Users\raphael_vidyatec\Downloads" --dry-run
+python organizador.py --path "C:\Users\raphael\Downloads" --dry-run
 ```
 
 ## Estrutura criada
